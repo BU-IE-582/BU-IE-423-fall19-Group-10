@@ -8,4 +8,4 @@ We are the Group 10. Our group members are:
 
 
 ## Project Part 1
-[Here](IE423-Project-Part-1.html) is our Project Part 1.
+[Here](BU-IE-423-fall19-Group-10/IE423-Project-Part-1.html) is our Project Part 1.
