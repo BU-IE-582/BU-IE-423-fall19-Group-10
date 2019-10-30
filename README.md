@@ -1,4 +1,4 @@
-# BU-IE-423-fall19-baturalpyalcinn
+# BU-IE-423-Group 10
 fall19-baturalpyalcinn created by GitHub Classroom
 
 IE 423 Progress Journal
