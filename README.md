@@ -14,3 +14,7 @@ Utku Atay,
 Project Part 1
 
 "IE423-Project-Part-1.html" is our Project Part 1.
+
+Project Part 2
+
+"IE-423-Project-Part-1.html" is our Project Part 2.
