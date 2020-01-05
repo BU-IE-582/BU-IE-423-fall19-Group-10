@@ -21,8 +21,8 @@ Project Part 2
 
 Project Part 3
 
-"IE-423-Projec-Part-3-1.html" is our codes and results for the first 10 images for Project Part 3.
+"IE423-Projec-Part-3-1.html" is our codes and results for the first 10 images for Project Part 3.
 
-"IE-423-Projec-Part-3-2.html" is our codes and results for the second 10 images for Project Part 3.
+"IE423-Projec-Part-3-2.html" is our codes and results for the second 10 images for Project Part 3.
 
 "IE-423-Project-Part-3-Report.pdf" is our detailed report for Project Part 3.
