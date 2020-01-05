@@ -18,3 +18,8 @@ Project Part 1
 Project Part 2
 
 "IE-423-Project-Part-1.html" is our Project Part 2.
+
+Project Part 3
+
+"IE-423-Projec-Part-3.html" is our codes and results for Project Part 3.
+"IE-423-Project-Part-3-Report.pdf" is our detailed report for Project Part 3.
