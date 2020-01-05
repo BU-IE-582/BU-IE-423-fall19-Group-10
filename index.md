@@ -15,8 +15,8 @@ We are the Group 10. Our group members are:
 
 ## Project Part 3
 
-[Here](IE423-Project-Part-3-1.html) is our R-codes and results for the first 10 images for  Project Part 3.
+[Here](IE-423-Project-Part-3-1.html) is our R-codes and results for the first 10 images for  Project Part 3.
 
-[Here](IE423-Project-Part-3-2.html) is our R-codes and results for the second 10 images for  Project Part 3.
+[Here](IE-423-Project-Part-3-2.html) is our R-codes and results for the second 10 images for  Project Part 3.
 
 [Here](IE-423-Project-Part-3-Report.pdf) is our detailed report for Project Part 3.
