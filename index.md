@@ -14,3 +14,6 @@ We are the Group 10. Our group members are:
 [Here](IE423-Project-Part-2.html) is our Project Part 2.
 
 ## Project Part 3
+
+[Here](IE423-Project-Part-2.html) is our R-codes and results for  Project Part 3.
+[Here](IE423-Project-Part-2.html) is our detailed report for Project Part 3.
